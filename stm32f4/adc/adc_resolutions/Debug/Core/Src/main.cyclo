@@ -1,0 +1,6 @@
+../Core/Src/main.c:53:7:HAL_ADC_LevelOutOfWindowCallback	2
+../Core/Src/main.c:74:6:main	1
+../Core/Src/main.c:127:7:SystemClock_Config	3
+../Core/Src/main.c:169:14:MX_ADC1_Init	4
+../Core/Src/main.c:234:14:MX_GPIO_Init	1
+../Core/Src/main.c:274:7:Error_Handler	1
